@@ -1,0 +1,3 @@
+local freeperks = {3794297826,3423187722,276419803}
+
+return freeperks
